@@ -9,7 +9,7 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
   background-image:  url("../images/white-wood.jpg");
-  background-attachment: scroll;
+  background-attachment: fixed;
 }
 
 .container, h1 {
