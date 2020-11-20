@@ -8,7 +8,7 @@ body, html {
 
   background-repeat: no-repeat;
   background-size: cover;
-  background-image:  url("/");
+  background-image:  url("./images/bay_of_pigs.jpg");
 }
 
 .container, h1 {
